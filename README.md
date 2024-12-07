@@ -1,4 +1,5 @@
-# 🌱I only do easy things🌱
+# 🌱All I do is simple🌱
+I only do easy things
 
 <!--
 **dot0112/dot0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
