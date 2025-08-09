@@ -1,6 +1,7 @@
 # 🌱All I do is simple🌱
 I only do easy things
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dot0112)](https://solved.ac/dot0112)
 <!--
 **dot0112/dot0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
